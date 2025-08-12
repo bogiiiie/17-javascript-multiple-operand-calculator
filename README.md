@@ -18,7 +18,7 @@ Crafted by **[Stephen William G. De Jesus](https://www.facebook.com/stephenwilli
 ---
 
 ## 🌐 Live Demo  
-[View Live Demo](https://bogiiiie.github.io/17-javascript-multiple-operand-calculator/)
+[View Live Demo](https://bogiiiie.github.io/17-javascript-multiple-operand-calculator-/)
 
 ---
 
